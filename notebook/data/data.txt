@@ -1,0 +1,4 @@
+RAG stands for Retrieval Augmented Generation.
+It retrieves relevant information and uses LLM to generate answers.
+FAISS is a vector database used for similarity search.
+LangChain helps orchestrate the RAG pipeline.
